@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shravan
 - 💭 I’m interested in Movies, Photography and Sports
-- 🌱 I’m currently learning Data Analytics and Java
+- 🌱 I’m currently learning Data Analytics, Java and Python
 - 📫 How to reach me - @vsshravan13@gmail.com (or) Instagram @vsshrav
 - 😄 Pronouns: He/Him
 
